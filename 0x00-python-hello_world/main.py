@@ -1,1 +1,2 @@
-#!/usr/bin/python3 echoprint("Best School")
+#!/usr/bin/python3
+print("Best School")
