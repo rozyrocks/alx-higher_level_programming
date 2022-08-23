@@ -1,3 +1,5 @@
+:set paste
+וֹ
 #ifndef LISTS_H
 #define LISTS_H
 
